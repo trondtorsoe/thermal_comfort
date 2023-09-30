@@ -1,4 +1,9 @@
 {
+  "options": {
+    "error": {
+      "temperature_not_found": "Finner ikke temperatursensor"
+    }
+  },
   "entity": {
     "sensor": {
       "dew_point_perception": {
