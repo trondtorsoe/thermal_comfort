@@ -1,7 +1,8 @@
 {
   "options": {
     "error": {
-      "temperature_not_found": "Finner ikke temperatursensor"
+      "temperature_not_found": "Finner ikke temperatursensor",
+      "humidity_not_found": "Finner ikke fuktighetssensor"
     }
   },
   "entity": {
